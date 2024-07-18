@@ -1,0 +1,20 @@
+p {
+    font-size: 18px;
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#four {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px; /*could leave out and use the .third class*/
+    font-weight: bold;
+}
